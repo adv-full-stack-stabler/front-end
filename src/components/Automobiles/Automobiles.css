@@ -1,0 +1,17 @@
+.Automobiles {
+    background: rgb(141, 82, 141);
+    color: aqua;
+
+}
+.Koenigsegg {
+    background: rgb(68, 114, 175);
+}
+
+.Hennessy {
+ background: rgb(138, 116, 77);
+}
+
+.Bugatti {
+    background: rgb(156, 25, 57);
+    color: rgb(42, 219, 95);
+}
